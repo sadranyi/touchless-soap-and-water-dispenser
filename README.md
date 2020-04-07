@@ -1,2 +1,2 @@
 # touchless-soap-and-water-dispenser
-In response to the recent COVID-19 Pandemic an the need to wash our hands regularly. I came up with this prototype. 
+In response to the recent COVID-19 Pandemic and the need to wash our hands regularly. I came up with this prototype. which is a solar powered soap, water and paper dispenser that eliminates the need to touch the tap, soap or apaer dispenser. this is an on-going project that I intend to modify to a full blown self sustaining system (looking into recycling the water and add some AI capabilities). 
